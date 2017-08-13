@@ -15,4 +15,4 @@ Submit an issue if I forget.
 
 If you run into any problems running it try installing Visual C++ Redistributable for Visual Studio 2015, https://www.microsoft.com/en-us/download/details.aspx?id=48145
 
-Ideally in the future I would like this to use a GNU compiler, but I just wanted to get this working for now as I was unable to locate a recent IceCat binary for Windows x64.
+Ideally in the future I would like this to use a GNU compiler, but I just wanted to get this working for now as I was unable to locate a recent IceCat binary for Windows x64. 
